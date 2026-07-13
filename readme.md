@@ -38,9 +38,9 @@ main.py
 
 - [x] Project structure
 - [x] Documentation
-- [ ] Data ingestion
-- [ ] Exploratory Data Analysis
-- [ ] Data preprocessing
+- [X] Data ingestion
+- [X] Exploratory Data Analysis
+- [X] Data preprocessing
 - [ ] Gaussian AHP implementation
 - [ ] Monte Carlo simulation
 - [ ] Sensitivity analysis
